@@ -1,3 +1,5 @@
+week3-api-lab
+
 API Documentation
 
 This API provides authentication and product-related services as part of a microservices-based application.
